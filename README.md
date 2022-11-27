@@ -6,4 +6,4 @@ Skills 섹션에는 제가 배운 언어들 일부의 숙련도를 프로그레�
 
 Portfolio 섹션에는 제가 한 실습 사이트 들과 깃허브 링크를 기재하였습니다.
 
-## Portfolio Website <a href="https://baesub.github.io">Github</a>
+## Portfolio Website <a href="https://baesub.github.io/portfolio/sbpp/sbpp.html">Github</a>
