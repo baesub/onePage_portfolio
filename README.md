@@ -1,6 +1,6 @@
 # portfolio!
 
-<img width="40%" src="https://user-images.githubusercontent.com/113866062/206851499-e1b80353-576e-4b54-83a0-5e5bb3d3bd2c.png">
+<img width="30%" src="https://user-images.githubusercontent.com/113866062/206851499-e1b80353-576e-4b54-83a0-5e5bb3d3bd2c.png">
 
 
 About 섹션에는 제 인적사항과 각오를 넣어주었고,
